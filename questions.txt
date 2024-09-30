@@ -1,0 +1,8 @@
+what is rdd ?
+excute the second  line code without again running the first line code ? --> cache ,persist
+rank vs dense_rank vs row_number
+linux comment to find the resourese in the server ?
+read a file as csv in hadoop location 
+write a code to join two dataframe 
+sql optimization in long running job in spark sql ?
+dag in spark ui?
